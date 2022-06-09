@@ -12,4 +12,4 @@ Calculul propriu-zis al path-urilor se bazeaza pe algoritmul A*, cu urmatoarele 
 - Algoritmul va considera tipul de bloc Material.AIR ca fiind spatiu liber, si orice alt tip de bloc ca fiind un obstacol/zid
 - Euristica aleasa pentru aceasta implementare a algoritmului A* este formula Pitagora aplicata coordonatelor blocurilor.
 
-Acest proiect a fost initial conceput ca si extensie de joc, deci poate contine unele quirks si feature-uri pe care nu le-am dezactivat, desi cred ca le-am eliminat pe toate care ar putea incurca demonstratia.
+Acest proiect a fost initial conceput ca si extensie de joc, deci poate contine unele quirks si feature-uri pe care nu le-am dezactivat, desi cred ca le-am eliminat pe toate care ar putea incurca demonstratia. Din acelasi motiv, structurile de date din cod sunt mai complexe decat este necesar pentru proiect, dar tin sa precizez ca scopul initial era simularea multiplelor entitati capabile de pathfinding.
